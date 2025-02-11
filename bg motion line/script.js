@@ -1,7 +1,5 @@
 class AWaves extends HTMLElement {
-    /**
-     * Init
-     */
+ 
     connectedCallback() {
       // Elements
       this.svg = this.querySelector('.js-svg')
