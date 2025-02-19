@@ -23,9 +23,3 @@ add.addEventListener("click", () => {
 })
 
 
-
-
-// remove.addEventListener("click",()=>{
-//     h4.innerText="Stranger"
-//     h4.style.color="red"
-// })
