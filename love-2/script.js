@@ -13,7 +13,7 @@ icon.style.opacity=0.7
     setTimeout(()=>{
         icon.style.transform = 'translate(-50%,-50%) '
         icon.style.opacity=0
-    },2000)
+    },2500)
 
 })
 
