@@ -10,7 +10,7 @@ const users = [
     age: 30,
     interest: [
       {
-        icons: `<i class="ri-music-2-fill"></i>`,
+        icons: `<i class="ri-music-2-fill"></i>`, 
         interest: "Music",
       },
       {
