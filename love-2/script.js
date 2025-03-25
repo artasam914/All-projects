@@ -14,7 +14,7 @@ icon.style.opacity=0.7
         icon.style.transform = 'translate(-50%,-50%) '
         icon.style.opacity=0
     },2500)
-
+ 
 })
 
 function cursor(){
