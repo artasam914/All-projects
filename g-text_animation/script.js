@@ -7,11 +7,11 @@ function textAnimationSidesToCenter() {
 
   let splitedText = h1Text.split("");
 
-  halfValue = h1Text.length / 2;
+  halfValue = h1Text.length / 2; 
 
   let clutter = "";
   splitedText.forEach((elem, idx) => {
-    if (idx < halfValue) {
+     if (idx < halfValue) {
       clutter += `<span class="a">${elem}</span>`;
     } else {
       clutter += `<span class="b">${elem}</span>`;
