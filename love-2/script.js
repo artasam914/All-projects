@@ -15,7 +15,7 @@ icon.style.opacity=0.7
         icon.style.opacity=0
     },2500)
  
-})
+}) 
 
 function cursor(){
     let circle=document.querySelector("#circle");
