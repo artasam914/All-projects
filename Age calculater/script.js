@@ -6,7 +6,7 @@ function calculateAge() {
     let birthdayValue = birthday.value;
 
     if (birthdayValue === "") {
-        alert("please enter your birthday")
+        alert("please enter your birthday") 
     } else {
 
         let age = getAge(birthdayValue)
