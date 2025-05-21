@@ -5,7 +5,7 @@ let btn = document.querySelector("#btn")
 function calculateAge() {
     let birthdayValue = birthday.value;
 
-    if (birthdayValue === "") {
+    if (birthdayValue === "") { 
         alert("please enter your birthday") 
     } else {
 
